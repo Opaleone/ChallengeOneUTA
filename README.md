@@ -27,9 +27,9 @@ Secondly, I left the code cleaner by doing a few things. The first thing I did w
 
 I organized global attributes at the top followed by general attributes, classes then finally, ID attributes. This allows any developer who comes behind me to easily find the attribute they are looking for.
 
-To further aid developer behind me, I added comments in key areas to mark sections off and provide an easy coloring scheme for them to follow.
+To further aid the developer behind me, I added comments in key areas to mark sections off and provide an easy coloring scheme for them to follow.
 
-And last but not least, I spaced elements out by include white space between lines of code, aiding in legibility.
+And last but not least, I spaced elements out by white space between lines of code, aiding in legibility.
 
 ## Credits
 
