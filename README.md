@@ -1,7 +1,6 @@
 # ChallengeOneUTA
 
 ## Description
----
 
 This repo contains my first challenge of the Full Stack coding bootcamp offered by the University of Texas at Austin. 
 
@@ -33,14 +32,12 @@ To further aid developer behind me, I added comments in key areas to mark sectio
 And last but not least, I spaced elements out by include white space between lines of code, aiding in legibility.
 
 ## Credits
----
 
 * University of Texas - Austin - Full Stack Coding Bootcamp
 * Stack Overflow
 * W3Schools
 
 ## License
----
 
 Please refer to license in the repository.
 
