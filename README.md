@@ -20,7 +20,8 @@ Firstly, I made the code more accessible by including semantic HTML elements. Th
 
 I, also, added alt attributes to IMG tags that will display a description of the image in case the picture doesn't load. This will also read out on a machine to a disabled person and gives them a description of the image.
     
-    * Semantic HTML elements are elements that clearly describe their meaning in a human- and machine-readable way.
+    * Semantic HTML elements are elements that clearly describe their 
+    meaning in a human- and machine-readable way.
     
 Secondly, I left the code cleaner by doing a few things. The first thing I did was organize the stylesheet according to order of importance. 
 
