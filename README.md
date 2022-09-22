@@ -6,6 +6,16 @@ This repo contains my first challenge of the Full Stack coding bootcamp offered 
 
 The challenge I was given was to refactor the starter code I was given to include semantic HTML elements for better accessibilty by disabled people. I was also challenged to follow the "scout rule" by leaving the code cleaner than I found it.
 
+Link to website for viewing:
+
+https://opaleone.github.io/ChallengeOneUTA/
+
+    Preview of Accessibility Changes
+![image info](./assets/images/section-screen.png)
+
+    Preview of CSS organization
+![image info](./assets/images/css-screen.png)
+
 Firstly, I made the code more accessible by including semantic HTML elements. The way I did this is by replacing all the HTML elements that were divs with an element called section. This enables machines to read out new section to someone who might be disabled and allows them to navigate a page with Sound instead of sight. 
 
 I, also, added alt attributes to IMG tags that will display a description of the image in case the picture doesn't load. This will also read out on a machine to a disabled person and gives them a description of the image.
